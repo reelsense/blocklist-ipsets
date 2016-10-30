@@ -1,6 +1,6 @@
 #!/bin/bash
 [ ! "$1" = "YES_I_AM_SURE_DO_IT_PLEASE" ] && echo "READ ME NOW" && exit 1
-[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1477848604 'alienvault_reputation.ipset'
+[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1477870259 'alienvault_reputation.ipset'
 [ -f 'geolite2_country/anonymous.netset' ] && /bin/touch --date=@1475589293 'geolite2_country/anonymous.netset'
 [ -f 'asprox_c2.ipset' ] && /bin/touch --date=@1462185851 'asprox_c2.ipset'
 [ -f 'atlas_attacks.ipset' ] && /bin/touch --date=@1477818372 'atlas_attacks.ipset'
@@ -384,7 +384,7 @@
 [ -f 'dronebl_autorooting_worms.netset' ] && /bin/touch --date=@1477577407 'dronebl_autorooting_worms.netset'
 [ -f 'dronebl_compromised.netset' ] && /bin/touch --date=@1472572208 'dronebl_compromised.netset'
 [ -f 'dronebl_ddos_drones.netset' ] && /bin/touch --date=@1477423807 'dronebl_ddos_drones.netset'
-[ -f 'dronebl_dns_mx_on_irc.netset' ] && /bin/touch --date=@1477852508 'dronebl_dns_mx_on_irc.netset'
+[ -f 'dronebl_dns_mx_on_irc.netset' ] && /bin/touch --date=@1477870508 'dronebl_dns_mx_on_irc.netset'
 [ -f 'dronebl_irc_drones.netset' ] && /bin/touch --date=@1477820708 'dronebl_irc_drones.netset'
 [ -f 'dronebl_unknown.netset' ] && /bin/touch --date=@1468065909 'dronebl_unknown.netset'
 [ -f 'dronebl_worms_bots.netset' ] && /bin/touch --date=@1477838407 'dronebl_worms_bots.netset'
@@ -1039,7 +1039,7 @@
 [ -f 'openbl_60d.ipset' ] && /bin/touch --date=@1477866722 'openbl_60d.ipset'
 [ -f 'openbl_7d.ipset' ] && /bin/touch --date=@1477866721 'openbl_7d.ipset'
 [ -f 'openbl_90d.ipset' ] && /bin/touch --date=@1477866727 'openbl_90d.ipset'
-[ -f 'openbl_all.ipset' ] && /bin/touch --date=@1477855946 'openbl_all.ipset'
+[ -f 'openbl_all.ipset' ] && /bin/touch --date=@1477870332 'openbl_all.ipset'
 [ -f 'packetmail.ipset' ] && /bin/touch --date=@1477857602 'packetmail.ipset'
 [ -f 'packetmail_carisirt.ipset' ] && /bin/touch --date=@1466629520 'packetmail_carisirt.ipset'
 [ -f 'packetmail_emerging_ips.ipset' ] && /bin/touch --date=@1477746305 'packetmail_emerging_ips.ipset'
