@@ -140,7 +140,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 2106,
+		"ips": 2099,
 		"common": 1
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11185,
+		"ips": 11249,
 		"common": 3
 	},
 	{
@@ -396,10 +396,16 @@
 		"common": 2
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3088,
+		"common": 1
+	},
+	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 146,
-		"common": 3
+		"ips": 124,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
