@@ -21,25 +21,25 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1159,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9791,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3910,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 774,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30424,
+		"ips": 30458,
 		"common": 121
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41897,
+		"ips": 41930,
 		"common": 121
 	},
 	{
@@ -195,7 +195,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095313,
-		"common": 36
+		"common": 34
 	},
 	{
 		"name": "graphiclineweb",
@@ -207,7 +207,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2311,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "haley_ssh",
@@ -255,7 +255,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 873783,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -279,7 +279,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "lashback_ubl",
@@ -339,7 +339,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 377115812,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -366,6 +366,18 @@
 		"common": 3
 	},
 	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 292426,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 588750,
+		"common": 1
+	},
+	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 553047,
@@ -387,6 +399,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 20371,
-		"common": 49
+		"common": 48
 	}
 ]
