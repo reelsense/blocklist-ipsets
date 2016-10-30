@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10738,
+		"ips": 10724,
 		"common": 9
 	},
 	{
@@ -150,21 +150,27 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 17,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 551,
-		"common": 2
+		"ips": 539,
+		"common": 3
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14476,
+		"ips": 14471,
 		"common": 14
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3642,
+		"ips": 3635,
 		"common": 7
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10911,
+		"ips": 10907,
 		"common": 9
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51311,
+		"ips": 51360,
 		"common": 4
 	},
 	{
@@ -350,25 +356,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47237,
+		"ips": 47239,
 		"common": 12
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164965,
+		"ips": 164970,
 		"common": 269
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569468,
+		"ips": 9569442,
 		"common": 61
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38451,
+		"ips": 38461,
 		"common": 1
 	},
 	{
@@ -540,6 +546,12 @@
 		"common": 347
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 33895,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -548,7 +560,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 10826,
+		"ips": 10835,
 		"common": 50
 	},
 	{
@@ -560,25 +572,31 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2953,
+		"ips": 2963,
 		"common": 2
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 19613,
+		"ips": 19615,
 		"common": 87
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 4758,
+		"ips": 4768,
 		"common": 3
+	},
+	{
+		"name": "openbl_7d",
+		"category": "attacks",
+		"ips": 1096,
+		"common": 1
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 6593,
+		"ips": 6602,
 		"common": 15
 	},
 	{
