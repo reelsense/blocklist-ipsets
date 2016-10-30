@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10567,
+		"ips": 10579,
 		"common": 66
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1495,
+		"ips": 1502,
 		"common": 8
 	},
 	{
@@ -560,8 +560,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51235,
-		"common": 102
+		"ips": 51236,
+		"common": 103
 	},
 	{
 		"name": "firehol_level1",
@@ -578,20 +578,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 167024,
+		"ips": 167026,
 		"common": 476
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569281,
+		"ips": 9569296,
 		"common": 630
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38392,
-		"common": 97
+		"ips": 38393,
+		"common": 98
 	},
 	{
 		"name": "firehol_webserver",
@@ -1330,6 +1330,30 @@
 		"category": "attacks",
 		"ips": 20371,
 		"common": 80
+	},
+	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 61,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 182,
+		"common": 1
+	},
+	{
+		"name": "xroxy_30d",
+		"category": "anonymizers",
+		"ips": 787,
+		"common": 1
+	},
+	{
+		"name": "xroxy_7d",
+		"category": "anonymizers",
+		"ips": 384,
+		"common": 1
 	},
 	{
 		"name": "yoyo_adservers",

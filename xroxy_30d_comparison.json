@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10567,
+		"ips": 10579,
 		"common": 2
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51235,
-		"common": 786
+		"ips": 51236,
+		"common": 787
 	},
 	{
 		"name": "firehol_level2",
@@ -218,20 +218,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 167024,
+		"ips": 167026,
 		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569281,
+		"ips": 9569296,
 		"common": 133
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38392,
-		"common": 786
+		"ips": 38393,
+		"common": 787
 	},
 	{
 		"name": "firehol_webserver",
@@ -321,6 +321,12 @@
 		"name": "iblocklist_org_microsoft",
 		"category": "organizations",
 		"ips": 1848447,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 873783,
 		"common": 1
 	},
 	{
@@ -579,7 +585,7 @@
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 607817,
-		"common": 146
+		"common": 147
 	},
 	{
 		"name": "sorbs_dul",
@@ -609,7 +615,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 69
+		"common": 70
 	},
 	{
 		"name": "sslproxies",
@@ -692,19 +698,19 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 60,
-		"common": 60
+		"ips": 61,
+		"common": 61
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 178,
-		"common": 178
+		"ips": 182,
+		"common": 182
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 382,
-		"common": 382
+		"ips": 384,
+		"common": 384
 	}
 ]
