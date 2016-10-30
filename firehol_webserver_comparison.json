@@ -18,15 +18,27 @@
 		"common": 255
 	},
 	{
+		"name": "atlas_attacks",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "atlas_attacks_2d",
+		"category": "attacks",
+		"ips": 12,
+		"common": 1
+	},
+	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 88,
+		"ips": 85,
 		"common": 13
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
-		"ips": 34,
+		"ips": 32,
 		"common": 5
 	},
 	{
@@ -141,7 +153,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 258,
-		"common": 149
+		"common": 150
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -260,62 +272,62 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 109,
+		"ips": 110,
 		"common": 14
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 592,
+		"ips": 591,
 		"common": 100
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4053,
+		"ips": 4052,
 		"common": 732
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1790,
+		"ips": 1789,
 		"common": 317
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4416,
-		"common": 998
+		"ips": 4431,
+		"common": 999
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5704,
+		"ips": 5710,
 		"common": 1060
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22203,
+		"ips": 22212,
 		"common": 1777
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9941,
+		"ips": 9947,
 		"common": 1208
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31930,
-		"common": 5109
+		"ips": 32015,
+		"common": 5116
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9768,
-		"common": 4259
+		"ips": 9767,
+		"common": 4258
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -344,8 +356,8 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18442,
-		"common": 4343
+		"ips": 18473,
+		"common": 4345
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -356,8 +368,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 8627,
-		"common": 192
+		"ips": 8666,
+		"common": 193
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -368,8 +380,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10544,
-		"common": 2871
+		"ips": 10519,
+		"common": 2870
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -482,8 +494,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 5681,
-		"common": 168
+		"ips": 5858,
+		"common": 170
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -920,37 +932,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51218,
+		"ips": 51221,
 		"common": 5059
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 663303511,
-		"common": 22226
+		"common": 22227
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43090,
-		"common": 5979
+		"ips": 42986,
+		"common": 5985
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165408,
-		"common": 29041
+		"ips": 165582,
+		"common": 29042
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569256,
-		"common": 57166
+		"ips": 9569232,
+		"common": 57165
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38376,
+		"ips": 38379,
 		"common": 2241
 	},
 	{
@@ -1826,26 +1838,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 144,
-		"common": 20
+		"ips": 141,
+		"common": 13
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 409,
-		"common": 43
+		"ips": 523,
+		"common": 52
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 3735,
-		"common": 324
+		"ips": 3796,
+		"common": 328
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1549,
-		"common": 131
+		"ips": 1611,
+		"common": 138
 	},
 	{
 		"name": "sblam",

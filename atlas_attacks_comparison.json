@@ -8,19 +8,19 @@
 	{
 		"name": "atlas_attacks_2d",
 		"category": "attacks",
-		"ips": 16,
+		"ips": 12,
 		"common": 10
 	},
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 88,
+		"ips": 85,
 		"common": 10
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
-		"ips": 34,
+		"ips": 32,
 		"common": 10
 	},
 	{
@@ -54,15 +54,39 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
+		"name": "bi_any_2_30d",
 		"category": "attacks",
-		"ips": 31930,
+		"ips": 9791,
 		"common": 1
 	},
 	{
-		"name": "blocklist_de_apache",
+		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 9768,
+		"ips": 3906,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 7020,
+		"common": 1
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1490,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 5858,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 3463,
 		"common": 1
 	},
 	{
@@ -72,21 +96,51 @@
 		"common": 1
 	},
 	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 47360,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 20480,
+		"common": 1
+	},
+	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 877,
+		"common": 2
+	},
+	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1397,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43090,
-		"common": 2
+		"ips": 42986,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165408,
+		"ips": 165582,
+		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9569232,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 50949882,
 		"common": 1
 	},
 	{
@@ -96,21 +150,81 @@
 		"common": 1
 	},
 	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 22311,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 4
+		"common": 3
 	},
 	{
-		"name": "iblocklist_rangetest",
+		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
-		"ips": 4346058,
+		"ips": 5482,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
 		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
+		"common": 1
+	},
+	{
+		"name": "openbl_180d",
+		"category": "attacks",
+		"ips": 10843,
+		"common": 1
+	},
+	{
+		"name": "openbl_30d",
+		"category": "attacks",
+		"ips": 2958,
+		"common": 1
+	},
+	{
+		"name": "openbl_360d",
+		"category": "attacks",
+		"ips": 19610,
+		"common": 1
+	},
+	{
+		"name": "openbl_60d",
+		"category": "attacks",
+		"ips": 4772,
+		"common": 1
+	},
+	{
+		"name": "openbl_90d",
+		"category": "attacks",
+		"ips": 6602,
+		"common": 1
+	},
+	{
+		"name": "openbl_all",
+		"category": "attacks",
+		"ips": 126450,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 50721672,
 		"common": 1
 	},
 	{
