@@ -74,31 +74,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29996,
-		"common": 893
+		"ips": 29916,
+		"common": 894
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9722,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1661,
+		"ips": 1663,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1804,
+		"ips": 1800,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16574,
+		"ips": 16513,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 8583,
+		"ips": 8568,
 		"common": 885
 	},
 	{
@@ -124,6 +130,12 @@
 		"category": "attacks",
 		"ips": 56856,
 		"common": 8
+	},
+	{
+		"name": "bm_tor",
+		"category": "anonymizers",
+		"ips": 6907,
+		"common": 1
 	},
 	{
 		"name": "botscout_30d",
@@ -380,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51387,
+		"ips": 51344,
 		"common": 2
 	},
 	{
@@ -392,8 +404,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39836,
-		"common": 933
+		"ips": 39842,
+		"common": 931
 	},
 	{
 		"name": "firehol_level3",
