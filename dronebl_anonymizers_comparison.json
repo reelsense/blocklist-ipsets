@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10501,
+		"ips": 10623,
 		"common": 80
 	},
 	{
@@ -198,22 +198,28 @@
 		"common": 304
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 48,
+		"common": 4
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 545,
-		"common": 47
+		"ips": 559,
+		"common": 49
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14453,
+		"ips": 14460,
 		"common": 814
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3626,
-		"common": 293
+		"ips": 3625,
+		"common": 292
 	},
 	{
 		"name": "botvrij_dst",
@@ -626,14 +632,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11053,
-		"common": 577
+		"ips": 11047,
+		"common": 572
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 217327,
-		"common": 10052
+		"ips": 217333,
+		"common": 10053
 	},
 	{
 		"name": "firehol_anonymous",
@@ -650,19 +656,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45132,
+		"ips": 45133,
 		"common": 2251
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165107,
-		"common": 2652
+		"ips": 165179,
+		"common": 2657
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569203,
+		"ips": 9569323,
 		"common": 1128
 	},
 	{
@@ -704,7 +710,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3231,
+		"ips": 3230,
 		"common": 21
 	},
 	{
@@ -1040,8 +1046,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35001,
-		"common": 1415
+		"ips": 35099,
+		"common": 1398
 	},
 	{
 		"name": "nullsecure",
@@ -1124,20 +1130,20 @@
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 94,
-		"common": 25
+		"ips": 50,
+		"common": 12
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 873,
-		"common": 180
+		"ips": 879,
+		"common": 183
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 263,
-		"common": 63
+		"ips": 250,
+		"common": 53
 	},
 	{
 		"name": "php_dictionary",
@@ -1586,8 +1592,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 45162,
-		"common": 2195
+		"ips": 45170,
+		"common": 2200
 	},
 	{
 		"name": "threatcrowd",

@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10501,
+		"ips": 10623,
 		"common": 36
 	},
 	{
@@ -150,21 +150,27 @@
 		"common": 6222
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 48,
+		"common": 6
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 545,
-		"common": 51
+		"ips": 559,
+		"common": 52
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14453,
+		"ips": 14460,
 		"common": 444
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3626,
+		"ips": 3625,
 		"common": 245
 	},
 	{
@@ -410,13 +416,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11053,
-		"common": 269
+		"ips": 11047,
+		"common": 256
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 217327,
+		"ips": 217333,
 		"common": 711
 	},
 	{
@@ -434,19 +440,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45132,
+		"ips": 45133,
 		"common": 15
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165107,
+		"ips": 165179,
 		"common": 1007
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569203,
+		"ips": 9569323,
 		"common": 471
 	},
 	{
@@ -482,7 +488,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3231,
+		"ips": 3230,
 		"common": 10
 	},
 	{
@@ -734,7 +740,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35001,
+		"ips": 35099,
 		"common": 3
 	},
 	{
@@ -789,25 +795,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 21
+		"common": 17
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 94,
-		"common": 39
+		"ips": 50,
+		"common": 17
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 873,
-		"common": 172
+		"ips": 879,
+		"common": 176
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 263,
-		"common": 76
+		"ips": 250,
+		"common": 85
 	},
 	{
 		"name": "php_dictionary_30d",
@@ -1148,8 +1154,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 45162,
-		"common": 970
+		"ips": 45170,
+		"common": 972
 	},
 	{
 		"name": "threatcrowd",
