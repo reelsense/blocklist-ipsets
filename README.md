@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Sun Oct 30 22:54:52 UTC 2016.
+The following list was automatically generated on Sun Oct 30 22:57:12 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -292,9 +292,9 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [bitcoin_blockchain_info_1d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_1d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|815 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
 [bitcoin_blockchain_info_30d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_30d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|4229 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
 [bitcoin_blockchain_info_7d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_7d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|2098 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
-[bitcoin_nodes](http://iplists.firehol.org/?ipset=bitcoin_nodes)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|4408 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
-[bitcoin_nodes_1d](http://iplists.firehol.org/?ipset=bitcoin_nodes_1d)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|5686 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
-[bitcoin_nodes_30d](http://iplists.firehol.org/?ipset=bitcoin_nodes_30d)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|22220 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
+[bitcoin_nodes](http://iplists.firehol.org/?ipset=bitcoin_nodes)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|4398 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
+[bitcoin_nodes_1d](http://iplists.firehol.org/?ipset=bitcoin_nodes_1d)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|5683 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
+[bitcoin_nodes_30d](http://iplists.firehol.org/?ipset=bitcoin_nodes_30d)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|22218 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
 [bitcoin_nodes_7d](http://iplists.firehol.org/?ipset=bitcoin_nodes_7d)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|9944 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
 [blocklist_de](http://iplists.firehol.org/?ipset=blocklist_de)|[Blocklist.de](https://www.blocklist.de/) IPs that have been detected by fail2ban in the last 48 hours|ipv4 hash:ip|30131 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/all.txt)
 [blocklist_de_apache](http://iplists.firehol.org/?ipset=blocklist_de_apache)|[Blocklist.de](https://www.blocklist.de/) All IP addresses which have been reported within the last 48 hours as having run attacks on the service Apache, Apache-DDOS, RFI-Attacks.|ipv4 hash:ip|9787 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/apache.txt)
