@@ -9,49 +9,43 @@
 		"name": "atlas_attacks",
 		"category": "attacks",
 		"ips": 10,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_2d",
 		"category": "attacks",
 		"ips": 12,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 85,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 32,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "atlas_scans_2d",
 		"category": "attacks",
-		"ips": 15,
+		"ips": 13,
 		"common": 10
 	},
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 105,
+		"ips": 106,
 		"common": 10
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 34,
+		"ips": 30,
 		"common": 10
-	},
-	{
-		"name": "bbcan177_ms1",
-		"category": "malware",
-		"ips": 5268568,
-		"common": 1
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -81,25 +75,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32015,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9767,
-		"common": 3
-	},
-	{
-		"name": "ciarmy",
-		"category": "reputation",
-		"ips": 5858,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 348,
 		"common": 6
+	},
+	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
+		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -123,19 +117,19 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 47360,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 20480,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 877,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "et_block",
@@ -158,8 +152,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42983,
-		"common": 4
+		"ips": 41637,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
@@ -180,16 +174,10 @@
 		"common": 1
 	},
 	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 3187,
-		"common": 2
-	},
-	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 5482,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level2",
@@ -213,6 +201,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 20371,
-		"common": 4
+		"common": 5
 	}
 ]
