@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10833,
+		"ips": 10900,
 		"common": 117
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2416,
+		"ips": 2417,
 		"common": 6
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51386,
-		"common": 2
+		"ips": 51407,
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
@@ -416,26 +416,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51052,
+		"ips": 51188,
 		"common": 10762
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 169321,
-		"common": 1192
+		"ips": 169311,
+		"common": 1195
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569795,
+		"ips": 9569792,
 		"common": 395
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38493,
-		"common": 2
+		"ips": 38514,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -674,7 +674,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39137,
+		"ips": 39136,
 		"common": 6
 	},
 	{
@@ -692,8 +692,8 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 10907,
-		"common": 876
+		"ips": 10900,
+		"common": 879
 	},
 	{
 		"name": "openbl_1d",
@@ -704,32 +704,32 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2957,
-		"common": 744
+		"ips": 2943,
+		"common": 746
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 19630,
-		"common": 900
+		"common": 903
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 4805,
-		"common": 814
+		"ips": 4807,
+		"common": 817
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 1134,
-		"common": 596
+		"ips": 1135,
+		"common": 598
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 6630,
-		"common": 841
+		"ips": 6623,
+		"common": 844
 	},
 	{
 		"name": "openbl_all",
@@ -812,19 +812,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4769,
+		"ips": 4772,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23970,
+		"ips": 23968,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 10183,
+		"ips": 10175,
 		"common": 1
 	},
 	{
@@ -891,6 +891,30 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2269,
+		"common": 1
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
+		"name": "sslproxies_1d",
+		"category": "anonymizers",
+		"ips": 204,
+		"common": 1
+	},
+	{
+		"name": "sslproxies_30d",
+		"category": "anonymizers",
+		"ips": 4361,
+		"common": 1
+	},
+	{
+		"name": "sslproxies_7d",
+		"category": "anonymizers",
+		"ips": 747,
 		"common": 1
 	},
 	{
@@ -980,7 +1004,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 3311,
+		"ips": 3451,
 		"common": 1
 	},
 	{
