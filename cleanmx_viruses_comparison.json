@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10953,
+		"ips": 10955,
 		"common": 131
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51339,
+		"ips": 51355,
 		"common": 1
 	},
 	{
@@ -578,14 +578,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569854,
+		"ips": 9569856,
 		"common": 12190
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 50950338,
-		"common": 4291
+		"ips": 50950460,
+		"common": 4285
 	},
 	{
 		"name": "fullbogons",
@@ -680,8 +680,8 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 17603,
-		"common": 1128
+		"ips": 17795,
+		"common": 1132
 	},
 	{
 		"name": "hphosts_wrz",
@@ -926,8 +926,14 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39139,
+		"ips": 39136,
 		"common": 2
+	},
+	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 4229,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",

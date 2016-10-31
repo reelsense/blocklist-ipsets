@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10953,
+		"ips": 10955,
 		"common": 168
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51339,
+		"ips": 51355,
 		"common": 67
 	},
 	{
@@ -422,20 +422,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569854,
+		"ips": 9569856,
 		"common": 303
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38509,
+		"ips": 38525,
 		"common": 50
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 50950338,
-		"common": 202
+		"ips": 50950460,
+		"common": 203
 	},
 	{
 		"name": "gofferje_sip",
@@ -483,6 +483,12 @@
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1750,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 17795,
 		"common": 1
 	},
 	{
@@ -644,7 +650,13 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39139,
+		"ips": 39136,
+		"common": 1
+	},
+	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 4229,
 		"common": 1
 	},
 	{
@@ -951,6 +963,12 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2269,
+		"common": 1
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
 		"common": 1
 	},
 	{
