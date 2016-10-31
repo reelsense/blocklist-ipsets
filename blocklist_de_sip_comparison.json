@@ -20,20 +20,20 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1301,
-		"common": 5
+		"ips": 1297,
+		"common": 6
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9601,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3481,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -57,13 +57,13 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 139,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37303,
-		"common": 121
+		"ips": 37418,
+		"common": 124
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -129,7 +129,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 348,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -176,8 +176,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51727,
-		"common": 121
+		"ips": 51841,
+		"common": 124
 	},
 	{
 		"name": "firehol_level3",
@@ -195,13 +195,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50950338,
-		"common": 37
+		"common": 39
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095316,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "greensnow",
@@ -351,7 +351,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
-		"common": 37
+		"common": 39
 	},
 	{
 		"name": "snort_ipfilter",
@@ -390,6 +390,12 @@
 		"common": 3
 	},
 	{
+		"name": "stopforumspam_toxic",
+		"category": "abuse",
+		"ips": 553047,
+		"common": 1
+	},
+	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 10348,
@@ -405,12 +411,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 16825,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 20412,
-		"common": 53
+		"common": 55
 	}
 ]
