@@ -27,25 +27,19 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1280,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9724,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3900,
-		"common": 12
-	},
-	{
-		"name": "bi_ftp_2_30d",
-		"category": "attacks",
-		"ips": 772,
-		"common": 1
+		"common": 11
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -68,13 +62,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32654,
-		"common": 120
+		"ips": 32727,
+		"common": 119
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10363,
+		"ips": 10364,
 		"common": 2
 	},
 	{
@@ -104,19 +98,19 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 69917,
+		"ips": 69919,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 29145,
+		"ips": 29147,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14451,
+		"ips": 14446,
 		"common": 2
 	},
 	{
@@ -129,7 +123,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 346,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -153,7 +147,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 48384,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "dshield_7d",
@@ -176,32 +170,32 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213977,
+		"ips": 213978,
 		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44029,
-		"common": 120
+		"ips": 44103,
+		"common": 119
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 167600,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569274,
+		"ips": 9569275,
 		"common": 12
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50950221,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "gofferje_sip",
@@ -213,7 +207,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2198,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "haley_ssh",
@@ -345,7 +339,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "snort_ipfilter",
@@ -405,6 +399,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 20389,
-		"common": 45
+		"common": 46
 	}
 ]
