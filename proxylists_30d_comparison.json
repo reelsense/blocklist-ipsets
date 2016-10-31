@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10395,
+		"ips": 10412,
 		"common": 23
 	},
 	{
@@ -96,100 +96,94 @@
 		"common": 3
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 53,
-		"common": 3
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 696,
+		"ips": 706,
 		"common": 29
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14389,
+		"ips": 14398,
 		"common": 725
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3564,
+		"ips": 3557,
 		"common": 166
 	},
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3339,
-		"common": 72
+		"ips": 3345,
+		"common": 66
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7502,
+		"ips": 7593,
 		"common": 153
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 69626,
-		"common": 1818
+		"ips": 69673,
+		"common": 1817
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 23948,
-		"common": 434
+		"ips": 23988,
+		"common": 435
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1339,
-		"common": 3
+		"ips": 1345,
+		"common": 2
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2549,
+		"ips": 2625,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 48334,
-		"common": 1483
+		"ips": 48377,
+		"common": 1481
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 12156,
+		"ips": 12186,
 		"common": 161
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 69
+		"common": 64
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5743,
+		"ips": 5764,
 		"common": 141
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 29068,
-		"common": 389
+		"ips": 29066,
+		"common": 390
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14324,
-		"common": 284
+		"ips": 14336,
+		"common": 285
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -302,13 +296,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11860,
-		"common": 347
+		"ips": 12020,
+		"common": 349
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 214422,
+		"ips": 214502,
 		"common": 4192
 	},
 	{
@@ -320,7 +314,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40778,
+		"ips": 40775,
 		"common": 228
 	},
 	{
@@ -332,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569235,
+		"ips": 9569265,
 		"common": 734
 	},
 	{
@@ -368,13 +362,13 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3021,
+		"ips": 3017,
 		"common": 12
 	},
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22326,
+		"ips": 22330,
 		"common": 3
 	},
 	{
@@ -572,8 +566,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 19742,
-		"common": 49
+		"ips": 19302,
+		"common": 50
 	},
 	{
 		"name": "nullsecure",
@@ -618,28 +612,22 @@
 		"common": 16
 	},
 	{
-		"name": "php_commenters",
-		"category": "spam",
-		"ips": 50,
-		"common": 1
-	},
-	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
+		"ips": 97,
 		"common": 1
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 879,
-		"common": 88
+		"ips": 898,
+		"common": 85
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 250,
-		"common": 26
+		"ips": 266,
+		"common": 24
 	},
 	{
 		"name": "php_dictionary",
@@ -716,26 +704,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 668,
-		"common": 665
+		"ips": 669,
+		"common": 666
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1762,
-		"common": 1752
+		"ips": 1713,
+		"common": 1705
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 7944,
-		"common": 7894
+		"ips": 7929,
+		"common": 7890
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 4092,
-		"common": 4070
+		"ips": 4064,
+		"common": 4043
 	},
 	{
 		"name": "proxyspy",
