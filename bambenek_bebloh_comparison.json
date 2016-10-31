@@ -1,35 +1,5 @@
 [
 	{
-		"name": "bambenek_banjori",
-		"category": "malware",
-		"ips": 2,
-		"common": 1
-	},
-	{
-		"name": "bambenek_c2",
-		"category": "malware",
-		"ips": 287,
-		"common": 1
-	},
-	{
-		"name": "bambenek_dircrypt",
-		"category": "malware",
-		"ips": 1,
-		"common": 1
-	},
-	{
-		"name": "bambenek_suppobox",
-		"category": "malware",
-		"ips": 98,
-		"common": 1
-	},
-	{
-		"name": "bambenek_tinba",
-		"category": "malware",
-		"ips": 17,
-		"common": 1
-	},
-	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 10826,
@@ -42,15 +12,21 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_level1",
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12190,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 663298422,
+		"ips": 9569255,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 50950227,
+		"ips": 50950286,
 		"common": 1
 	},
 	{
@@ -63,6 +39,12 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 21284,
+		"common": 1
+	},
+	{
+		"name": "hphosts_exp",
+		"category": "malware",
+		"ips": 303,
 		"common": 1
 	},
 	{
@@ -86,25 +68,13 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 17543,
+		"ips": 17603,
 		"common": 1
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 837,
-		"common": 1
-	},
-	{
-		"name": "jigsaw_attacks",
-		"category": "attacks",
-		"ips": 27109,
-		"common": 1
-	},
-	{
-		"name": "pushing_inertia_blocklist",
-		"category": "reputation",
-		"ips": 50721928,
 		"common": 1
 	}
 ]
