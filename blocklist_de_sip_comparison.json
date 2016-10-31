@@ -27,13 +27,19 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9601,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3485,
-		"common": 9
+		"common": 10
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 769,
+		"common": 1
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -57,7 +63,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 35405,
-		"common": 119
+		"common": 120
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -116,7 +122,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 347,
+		"ips": 346,
 		"common": 10
 	},
 	{
@@ -158,8 +164,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 48385,
-		"common": 119
+		"ips": 48399,
+		"common": 120
 	},
 	{
 		"name": "firehol_level3",
@@ -170,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569514,
+		"ips": 9569521,
 		"common": 11
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2303,
+		"ips": 2329,
 		"common": 5
 	},
 	{
@@ -214,6 +220,12 @@
 		"category": "reputation",
 		"ips": 5519,
 		"common": 3
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_aol",
