@@ -158,25 +158,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4374,
+		"ips": 4364,
 		"common": 750
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5701,
-		"common": 1183
+		"ips": 5696,
+		"common": 1181
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
 		"ips": 22232,
-		"common": 6508
+		"common": 6507
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9912,
+		"ips": 9915,
 		"common": 2487
 	},
 	{
@@ -294,16 +294,22 @@
 		"common": 512
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 29,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 711,
+		"ips": 716,
 		"common": 39
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14398,
-		"common": 1327
+		"ips": 14396,
+		"common": 1328
 	},
 	{
 		"name": "botscout_7d",
@@ -482,8 +488,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6841,
-		"common": 670
+		"ips": 6857,
+		"common": 674
 	},
 	{
 		"name": "dragon_http",
@@ -764,8 +770,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12118,
-		"common": 753
+		"ips": 12120,
+		"common": 752
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -776,20 +782,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51299,
-		"common": 9618
+		"ips": 51349,
+		"common": 9630
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 663298408,
+		"ips": 663298409,
 		"common": 52606
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41575,
-		"common": 3991
+		"ips": 41564,
+		"common": 3992
 	},
 	{
 		"name": "firehol_level3",
@@ -800,8 +806,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569300,
-		"common": 22563
+		"ips": 9569298,
+		"common": 22564
 	},
 	{
 		"name": "firehol_proxies",
@@ -842,8 +848,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3005,
-		"common": 231
+		"ips": 2994,
+		"common": 232
 	},
 	{
 		"name": "haley_ssh",
@@ -1898,13 +1904,13 @@
 	{
 		"name": "zeus",
 		"category": "malware",
-		"ips": 149,
+		"ips": 150,
 		"common": 2
 	},
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 132,
+		"ips": 133,
 		"common": 2
 	}
 ]
