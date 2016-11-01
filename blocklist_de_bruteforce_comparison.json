@@ -32,14 +32,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38377,
-		"common": 250
+		"ips": 38598,
+		"common": 251
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9690,
-		"common": 250
+		"ips": 9699,
+		"common": 251
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -177,7 +177,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 266952,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -225,12 +225,12 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 51413,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 663292800,
+		"ips": 663292781,
 		"common": 4
 	},
 	{
@@ -243,7 +243,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 168971,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "firehol_level4",
@@ -255,7 +255,7 @@
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 38509,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -411,12 +411,18 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2170622,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2453,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39962,
 		"common": 1
 	},
 	{
@@ -501,19 +507,25 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 46703,
+		"common": 2
+	},
+	{
+		"name": "socks_proxy_1d",
+		"category": "anonymizers",
+		"ips": 4887,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 23995,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
 		"ips": 10097,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
@@ -525,7 +537,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 189065,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_noserver",
@@ -537,7 +549,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1549943,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "sorbs_web",
@@ -609,7 +621,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 46369,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "voipbl",
