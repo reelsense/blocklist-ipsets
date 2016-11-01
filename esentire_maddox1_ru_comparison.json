@@ -20,19 +20,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9705,
+		"ips": 9696,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1992,
+		"ips": 1999,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22609,
+		"ips": 22498,
 		"common": 1
 	},
 	{
@@ -270,6 +270,12 @@
 		"common": 2
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 12732,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 214728,
@@ -290,13 +296,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 168485,
+		"ips": 168484,
 		"common": 153
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569848,
+		"ips": 9569865,
 		"common": 4
 	},
 	{
@@ -550,6 +556,12 @@
 		"category": "abuse",
 		"ips": 292593,
 		"common": 31
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 4176,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
