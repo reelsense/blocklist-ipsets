@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51412,
+		"ips": 51417,
 		"common": 7
 	},
 	{
@@ -374,8 +374,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 64740,
-		"common": 200
+		"ips": 65260,
+		"common": 201
 	},
 	{
 		"name": "firehol_level3",
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38487,
+		"ips": 38491,
 		"common": 7
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
-		"ips": 1827,
+		"ips": 1783,
 		"common": 1
 	},
 	{
@@ -632,8 +632,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 151,
-		"common": 38
+		"ips": 147,
+		"common": 37
 	},
 	{
 		"name": "openbl_30d",
@@ -770,7 +770,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23876,
+		"ips": 23878,
 		"common": 3
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1063,
+		"ips": 1064,
 		"common": 2
 	},
 	{
@@ -914,7 +914,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2695,
+		"ips": 2693,
 		"common": 2
 	},
 	{
@@ -934,6 +934,12 @@
 		"category": "reputation",
 		"ips": 16825,
 		"common": 141
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 10411,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
