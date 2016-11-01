@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1133,
+		"ips": 1122,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11018,
+		"ips": 10942,
 		"common": 2
 	},
 	{
@@ -297,7 +297,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6952,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -380,8 +380,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51421,
-		"common": 45
+		"ips": 51468,
+		"common": 46
 	},
 	{
 		"name": "firehol_level1",
@@ -404,13 +404,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569770,
+		"ips": 9569696,
 		"common": 886
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38495,
+		"ips": 38494,
 		"common": 31
 	},
 	{
@@ -598,6 +598,12 @@
 		"category": "anonymizers",
 		"ips": 455,
 		"common": 4
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39976,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
