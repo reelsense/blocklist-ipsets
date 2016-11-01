@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Tue Nov  1 21:25:31 UTC 2016.
+The following list was automatically generated on Tue Nov  1 21:28:56 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1335,7 +1335,7 @@ sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that the
 [stopforumspam_7d](http://iplists.firehol.org/?ipset=stopforumspam_7d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 7 days)|ipv4 hash:ip|18804 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_7.zip)
 [stopforumspam_90d](http://iplists.firehol.org/?ipset=stopforumspam_90d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 90 days)|ipv4 hash:ip|148532 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_90.zip)
 [stopforumspam_toxic](http://iplists.firehol.org/?ipset=stopforumspam_toxic)|[StopForumSpam.com](http://www.stopforumspam.com) Networks that have large amounts of spambots and are flagged as toxic. Toxic IP ranges are infrequently changed.|ipv4 hash:net|82 subnets, 553047 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/toxic_ip_cidr.txt)
-[taichung](http://iplists.firehol.org/?ipset=taichung)|[Taichung Education Center](https://www.tc.edu.tw/net/netflow/lkout/recent/30) Blocked IP Addresses (attacks and bots).|ipv4 hash:ip|10348 unique IPs|updated every 1 day  from [this link](https://www.tc.edu.tw/net/netflow/lkout/recent/30)
+[taichung](http://iplists.firehol.org/?ipset=taichung)|[Taichung Education Center](https://www.tc.edu.tw/net/netflow/lkout/recent/30) Blocked IP Addresses (attacks and bots).|ipv4 hash:ip|10559 unique IPs|updated every 1 day  from [this link](https://www.tc.edu.tw/net/netflow/lkout/recent/30)
 [talosintel_ipfilter](http://iplists.firehol.org/?ipset=talosintel_ipfilter)|[TalosIntel.com](http://talosintel.com/additional-resources/) List of known malicious network threats|ipv4 hash:ip|45100 unique IPs|updated every 15 mins  from [this link](http://talosintel.com/feeds/ip-filter.blf)
 [threatcrowd](http://iplists.firehol.org/?ipset=threatcrowd)|[Crowdsourced IP feed from ThreatCrowd](http://threatcrowd.blogspot.gr/2016/02/crowdsourced-feeds-from-threatcrowd.html). These feeds are not a substitute for the scale of auto-extracted command and control domains or the quality of some commercially provided feeds. But crowd-sourcing does go some way towards the quick sharing of threat intelligence between the community.|ipv4 hash:ip|2594 unique IPs|updated every 1 hour  from [this link](https://www.threatcrowd.org/feeds/ips.txt)
 [tor_exits](http://iplists.firehol.org/?ipset=tor_exits)|[TorProject.org](https://www.torproject.org) list of all current TOR exit points (TorDNSEL)|ipv4 hash:ip|1067 unique IPs|updated every 5 mins  from [this link](https://check.torproject.org/exit-addresses)
