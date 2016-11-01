@@ -98,14 +98,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42138,
-		"common": 142
+		"ips": 42302,
+		"common": 143
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9744,
-		"common": 24
+		"ips": 9741,
+		"common": 23
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -114,22 +114,28 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1662,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24129,
+		"ips": 24275,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 163,
-		"common": 1
+		"ips": 164,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12674,
-		"common": 114
+		"ips": 12679,
+		"common": 115
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -158,25 +164,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 70562,
+		"ips": 70563,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 23626,
+		"ips": 23501,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 29128,
+		"ips": 29131,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14558,
+		"ips": 14562,
 		"common": 3
 	},
 	{
@@ -200,8 +206,8 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3950,
-		"common": 39
+		"ips": 3952,
+		"common": 41
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -332,20 +338,20 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 214689,
+		"ips": 214691,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 663292775,
+		"ips": 663292519,
 		"common": 28
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 65265,
-		"common": 203
+		"ips": 65425,
+		"common": 204
 	},
 	{
 		"name": "firehol_level3",
@@ -704,7 +710,7 @@
 	{
 		"name": "spamhaus_drop",
 		"category": "reputation",
-		"ips": 25376768,
+		"ips": 25376512,
 		"common": 1
 	},
 	{
