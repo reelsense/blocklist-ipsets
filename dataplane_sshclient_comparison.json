@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11004,
+		"ips": 11041,
 		"common": 114
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569775,
+		"ips": 9569804,
 		"common": 500
 	},
 	{
@@ -774,6 +774,12 @@
 		"common": 2
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39959,
+		"common": 1
+	},
+	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
 		"ips": 4229,
@@ -1046,8 +1052,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 45769,
-		"common": 46
+		"ips": 45709,
+		"common": 45
 	},
 	{
 		"name": "threatcrowd",
