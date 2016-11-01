@@ -102,12 +102,6 @@
 		"common": 15
 	},
 	{
-		"name": "blueliv_crimeserver_last_30d",
-		"category": "attacks",
-		"ips": 10516,
-		"common": 1
-	},
-	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 57189,
@@ -362,7 +356,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51388,
+		"ips": 51459,
 		"common": 224
 	},
 	{
@@ -374,8 +368,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 65286,
-		"common": 1429
+		"ips": 65345,
+		"common": 1441
 	},
 	{
 		"name": "firehol_level3",
@@ -392,7 +386,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38455,
+		"ips": 38458,
 		"common": 224
 	},
 	{
@@ -936,21 +930,27 @@
 		"common": 786
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4778,
+		"ips": 4776,
 		"common": 117
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23846,
+		"ips": 23849,
 		"common": 206
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9668,
+		"ips": 9660,
 		"common": 166
 	},
 	{
@@ -1034,7 +1034,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 226,
+		"ips": 224,
 		"common": 2
 	},
 	{
@@ -1046,7 +1046,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 682,
+		"ips": 681,
 		"common": 2
 	},
 	{
@@ -1130,8 +1130,8 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 10386,
-		"common": 522
+		"ips": 10442,
+		"common": 534
 	},
 	{
 		"name": "voipbl",
