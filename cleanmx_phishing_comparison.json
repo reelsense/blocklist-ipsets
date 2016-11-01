@@ -57,7 +57,7 @@
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 20,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -92,25 +92,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44112,
+		"ips": 44246,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 2304,
+		"ips": 2316,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1632,
+		"ips": 1624,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25579,
+		"ips": 25692,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 356,
+		"ips": 357,
 		"common": 1
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 2064,
+		"ips": 2062,
 		"common": 1
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12234,
+		"ips": 12193,
 		"common": 1
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51448,
+		"ips": 51450,
 		"common": 1
 	},
 	{
@@ -494,13 +494,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 67013,
+		"ips": 67659,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 167022,
+		"ips": 167021,
 		"common": 40
 	},
 	{
@@ -704,8 +704,8 @@
 	{
 		"name": "iblocklist_malc0de",
 		"category": "malware",
-		"ips": 402,
-		"common": 9
+		"ips": 397,
+		"common": 7
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -866,8 +866,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 3258,
-		"common": 103
+		"ips": 3259,
+		"common": 104
 	},
 	{
 		"name": "ransomware_rw",
