@@ -391,7 +391,7 @@
 [ -f 'dshield.netset' ] && /bin/touch --date=@1477955514 'dshield.netset'
 [ -f 'dshield_1d.netset' ] && /bin/touch --date=@1477955514 'dshield_1d.netset'
 [ -f 'dshield_30d.netset' ] && /bin/touch --date=@1478003651 'dshield_30d.netset'
-[ -f 'dshield_7d.netset' ] && /bin/touch --date=@1477955514 'dshield_7d.netset'
+[ -f 'dshield_7d.netset' ] && /bin/touch --date=@1478005905 'dshield_7d.netset'
 [ -f 'dshield_top_1000.ipset' ] && /bin/touch --date=@1478003765 'dshield_top_1000.ipset'
 [ -f 'dyndns_ponmocup.ipset' ] && /bin/touch --date=@1477942965 'dyndns_ponmocup.ipset'
 [ -f 'esentire_14072015_com.ipset' ] && /bin/touch --date=@1462233103 'esentire_14072015_com.ipset'
