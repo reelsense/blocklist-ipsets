@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Tue Nov  1 10:22:37 UTC 2016.
+The following list was automatically generated on Tue Nov  1 10:24:42 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -269,7 +269,7 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [bambenek_qakbot](http://iplists.firehol.org/?ipset=bambenek_qakbot)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of qakbot C&Cs with 90 minute lookback|ipv4 hash:ip|0 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/qakbot-iplist.txt)
 [bambenek_ramnit](http://iplists.firehol.org/?ipset=bambenek_ramnit)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of ramnit C&Cs with 90 minute lookback|ipv4 hash:ip|6 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/ramnit-iplist.txt)
 [bambenek_ranbyus](http://iplists.firehol.org/?ipset=bambenek_ranbyus)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of ranbyus C&Cs with 90 minute lookback|ipv4 hash:ip|0 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/ranbyus-iplist.txt)
-[bambenek_simda](http://iplists.firehol.org/?ipset=bambenek_simda)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of simda C&Cs with 90 minute lookback|ipv4 hash:ip|113 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/simda-iplist.txt)
+[bambenek_simda](http://iplists.firehol.org/?ipset=bambenek_simda)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of simda C&Cs with 90 minute lookback|ipv4 hash:ip|112 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/simda-iplist.txt)
 [bambenek_suppobox](http://iplists.firehol.org/?ipset=bambenek_suppobox)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of suppobox C&Cs with 90 minute lookback|ipv4 hash:ip|74 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/suppobox-iplist.txt)
 [bambenek_symmi](http://iplists.firehol.org/?ipset=bambenek_symmi)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of symmi C&Cs with 90 minute lookback|ipv4 hash:ip|0 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/symmi-iplist.txt)
 [bambenek_tinba](http://iplists.firehol.org/?ipset=bambenek_tinba)|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/) feed of current IPs of tinba C&Cs with 90 minute lookback|ipv4 hash:ip|13 unique IPs|updated every 30 mins  from [this link](http://osint.bambenekconsulting.com/feeds/tinba-iplist.txt)
@@ -1303,9 +1303,9 @@ php_bad|[projecthoneypot.org](http://www.projecthoneypot.org/?rf=192670) bad web
 [shunlist](http://iplists.firehol.org/?ipset=shunlist)|[AutoShun.org](http://autoshun.org/) IPs identified as hostile by correlating logs from distributed snort installations running the autoshun plugin|ipv4 hash:ip|500 unique IPs|updated every 4 hours  from [this link](http://www.autoshun.org/files/shunlist.csv)
 [snort_ipfilter](http://iplists.firehol.org/?ipset=snort_ipfilter)|[labs.snort.org](https://labs.snort.org/) supplied IP blacklist (this list seems to be updated frequently, but we found no information about it)|ipv4 hash:ip|46185 unique IPs|updated every 12 hours  from [this link](http://labs.snort.org/feeds/ip-filter.blf)
 [socks_proxy](http://iplists.firehol.org/?ipset=socks_proxy)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|80 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
-[socks_proxy_1d](http://iplists.firehol.org/?ipset=socks_proxy_1d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|4790 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
+[socks_proxy_1d](http://iplists.firehol.org/?ipset=socks_proxy_1d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|4797 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [socks_proxy_30d](http://iplists.firehol.org/?ipset=socks_proxy_30d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|23909 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
-[socks_proxy_7d](http://iplists.firehol.org/?ipset=socks_proxy_7d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|9884 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
+[socks_proxy_7d](http://iplists.firehol.org/?ipset=socks_proxy_7d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|9877 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [sorbs_anonymizers](http://iplists.firehol.org/?ipset=sorbs_anonymizers)|[Sorbs.net](https://www.sorbs.net/) List of open HTTP and SOCKS proxies.|ipv4 hash:net|595820 subnets, 607855 unique IPs|
 sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that they never be tested by SORBS.|ipv4 hash:net|disabled|
 [sorbs_dul](http://iplists.firehol.org/?ipset=sorbs_dul)|[Sorbs.net](https://www.sorbs.net/) Dynamic IP Addresses.|ipv4 hash:net|545840 subnets, 376045570 unique IPs|
