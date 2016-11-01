@@ -220,13 +220,13 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Tue Nov  1 11:34:07 UTC 2016.
+The following list was automatically generated on Tue Nov  1 11:36:56 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
 name|info|type|entries|update|
 :--:|:--:|:--:|:-----:|:----:|
-[alienvault_reputation](http://iplists.firehol.org/?ipset=alienvault_reputation)|[AlienVault.com](https://www.alienvault.com/) IP reputation database|ipv4 hash:ip|31014 unique IPs|updated every 6 hours  from [this link](https://reputation.alienvault.com/reputation.generic)
+[alienvault_reputation](http://iplists.firehol.org/?ipset=alienvault_reputation)|[AlienVault.com](https://www.alienvault.com/) IP reputation database|ipv4 hash:ip|31243 unique IPs|updated every 6 hours  from [this link](https://reputation.alienvault.com/reputation.generic)
 [anonymous](http://iplists.firehol.org/?ipset=anonymous)|Anonymous Service Providers -- [MaxMind GeoLite2](http://dev.maxmind.com/geoip/geoip2/geolite2/)|ipv4 hash:net|32 subnets, 6159 unique IPs|updated every 7 days  from [this link](http://geolite.maxmind.com/download/geoip/database/GeoLite2-Country-CSV.zip)
 [asprox_c2](http://iplists.firehol.org/?ipset=asprox_c2)|[h3x.eu](http://atrack.h3x.eu/) ASPROX Tracker - Asprox C&C Sites|ipv4 hash:ip|936 unique IPs|updated every 1 day  from [this link](http://atrack.h3x.eu/c2)
 [atlas_attacks](http://iplists.firehol.org/?ipset=atlas_attacks)|[ATLAS Attacks](https://atlas.arbor.net/summary/attacks) - ATLAS uses lightweight honeypot sensors to detect and fingerprint the attacks launched by malicious sources on the Internet. In most cases the attacker is trying to take control of the target via a published exploit for a known vulnerability. A variety of exploit tools exist and are usually written specifically for each attack vector. Exploit attempts and attacks are most often launched from bots (hosts under an attacker's control), which will automatically try to exploit any possible host on the Internet. Attack origins are usually not spoofed, although the source host may be compromised or infected with malware.|ipv4 hash:ip|10 unique IPs|updated every 1 day  from [this link](https://atlas.arbor.net/summary/attacks.csv)
