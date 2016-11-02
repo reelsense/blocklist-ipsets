@@ -50,7 +50,7 @@
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
-		"ips": 1276,
+		"ips": 1264,
 		"common": 1
 	},
 	{
@@ -110,25 +110,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42058,
-		"common": 966
+		"ips": 41910,
+		"common": 961
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9697,
+		"ips": 9690,
 		"common": 39
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1989,
+		"ips": 1986,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 207,
+		"ips": 208,
 		"common": 2
 	},
 	{
@@ -140,20 +140,20 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1288,
+		"ips": 1289,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 29015,
-		"common": 736
+		"ips": 28965,
+		"common": 733
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7293,
-		"common": 171
+		"ips": 7203,
+		"common": 169
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51261,
+		"ips": 51268,
 		"common": 590
 	},
 	{
@@ -560,8 +560,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62184,
-		"common": 1039
+		"ips": 62037,
+		"common": 1034
 	},
 	{
 		"name": "firehol_level3",
@@ -578,7 +578,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38272,
+		"ips": 38279,
 		"common": 553
 	},
 	{
@@ -1062,21 +1062,27 @@
 		"common": 799
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 8
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4762,
-		"common": 74
+		"ips": 4770,
+		"common": 77
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23679,
+		"ips": 23682,
 		"common": 411
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9404,
+		"ips": 9405,
 		"common": 151
 	},
 	{
