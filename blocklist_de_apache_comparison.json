@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32872,
-		"common": 100
+		"common": 99
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -57,7 +57,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9486,
-		"common": 57
+		"common": 55
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -69,7 +69,7 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 604,
-		"common": 53
+		"common": 51
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -86,25 +86,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42518,
-		"common": 9695
+		"ips": 42225,
+		"common": 9681
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1983,
+		"ips": 1976,
 		"common": 23
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 208,
-		"common": 208
+		"ips": 204,
+		"common": 204
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 29059,
+		"ips": 29003,
 		"common": 8500
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9761,
-		"common": 130
+		"ips": 9751,
+		"common": 127
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -153,7 +153,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 7100,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "cleantalk",
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51283,
+		"ips": 51289,
 		"common": 7
 	},
 	{
@@ -416,25 +416,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62282,
-		"common": 9695
+		"ips": 61988,
+		"common": 9681
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 165565,
-		"common": 77
+		"common": 75
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568451,
-		"common": 174
+		"ips": 9568441,
+		"common": 171
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38301,
+		"ips": 38307,
 		"common": 6
 	},
 	{
@@ -447,7 +447,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095317,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "gpf_comics",
@@ -495,13 +495,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 5991,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -561,13 +561,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 565
+		"common": 564
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 2144
+		"common": 2143
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -828,27 +828,21 @@
 		"common": 1
 	},
 	{
-		"name": "proxyspy",
-		"category": "anonymizers",
-		"ips": 299,
-		"common": 1
-	},
-	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 876,
+		"ips": 886,
 		"common": 1
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5958,
+		"ips": 5963,
 		"common": 1
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2432,
+		"ips": 2435,
 		"common": 1
 	},
 	{
@@ -912,12 +906,6 @@
 		"common": 24
 	},
 	{
-		"name": "shunlist",
-		"category": "attacks",
-		"ips": 500,
-		"common": 1
-	},
-	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 44721,
@@ -951,7 +939,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 376037418,
-		"common": 119
+		"common": 117
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -969,7 +957,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1650806,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "sorbs_web",
@@ -981,7 +969,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 158
+		"common": 155
 	},
 	{
 		"name": "sp_atma",
@@ -1065,7 +1053,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 5993,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "tor_exits",
