@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10037,
+		"ips": 10010,
 		"common": 1
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14045,
+		"ips": 14041,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3640,
+		"ips": 3645,
 		"common": 1
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12066,
+		"ips": 12069,
 		"common": 3
 	},
 	{
@@ -414,6 +414,12 @@
 		"common": 610
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 71432,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 166204,
@@ -422,7 +428,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568769,
+		"ips": 9568738,
 		"common": 33
 	},
 	{
@@ -453,6 +459,12 @@
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3279,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3356,
 		"common": 1
 	},
 	{
@@ -728,7 +740,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 3255,
+		"ips": 3254,
 		"common": 2
 	},
 	{
@@ -780,12 +792,6 @@
 		"common": 87
 	},
 	{
-		"name": "sorbs_new_spam",
-		"category": "spam",
-		"ips": 275746,
-		"common": 1
-	},
-	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22987366,
@@ -794,7 +800,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1615915,
+		"ips": 1621373,
 		"common": 16
 	},
 	{
