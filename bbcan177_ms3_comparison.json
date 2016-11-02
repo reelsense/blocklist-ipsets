@@ -98,8 +98,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1007,
-		"common": 13
+		"ips": 1013,
+		"common": 14
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10322,
+		"ips": 10272,
 		"common": 18
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 266948,
+		"ips": 266947,
 		"common": 614
 	},
 	{
@@ -638,8 +638,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51345,
-		"common": 88
+		"ips": 51359,
+		"common": 89
 	},
 	{
 		"name": "firehol_level1",
@@ -656,20 +656,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 166915,
+		"ips": 166916,
 		"common": 357
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569057,
+		"ips": 9569012,
 		"common": 526
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38440,
-		"common": 87
+		"ips": 38454,
+		"common": 88
 	},
 	{
 		"name": "firehol_webserver",
@@ -1202,7 +1202,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 3257,
+		"ips": 3256,
 		"common": 16
 	},
 	{
@@ -1284,22 +1284,28 @@
 		"common": 28
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4878,
-		"common": 16
+		"ips": 4884,
+		"common": 17
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23844,
-		"common": 44
+		"ips": 23858,
+		"common": 45
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9565,
-		"common": 22
+		"ips": 9576,
+		"common": 23
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1316,8 +1322,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 272713,
-		"common": 259
+		"ips": 275746,
+		"common": 252
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1328,7 +1334,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1613987,
+		"ips": 1615915,
 		"common": 1299
 	},
 	{
