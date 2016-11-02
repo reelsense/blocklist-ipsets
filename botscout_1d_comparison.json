@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 43649,
+		"ips": 43349,
 		"common": 209
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9782,
+		"ips": 9773,
 		"common": 2
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28672,
+		"ips": 28552,
 		"common": 9
 	},
 	{
@@ -98,20 +98,20 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 21,
-		"common": 21
+		"ips": 14,
+		"common": 14
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14013,
-		"common": 800
+		"ips": 14004,
+		"common": 802
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3702,
-		"common": 800
+		"ips": 3703,
+		"common": 802
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -129,19 +129,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 7150,
-		"common": 142
+		"common": 140
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 70787,
-		"common": 257
+		"common": 255
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 22861,
-		"common": 195
+		"common": 193
 	},
 	{
 		"name": "cleantalk_new",
@@ -153,19 +153,19 @@
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
 		"ips": 2549,
-		"common": 68
+		"common": 67
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 49286,
-		"common": 180
+		"common": 179
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 10883,
-		"common": 106
+		"common": 105
 	},
 	{
 		"name": "cleantalk_top20",
@@ -183,19 +183,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 5481,
-		"common": 97
+		"common": 96
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 28946,
-		"common": 135
+		"common": 134
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 14725,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -314,19 +314,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12105,
-		"common": 800
+		"ips": 12109,
+		"common": 802
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 215220,
-		"common": 635
+		"common": 634
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51263,
+		"ips": 51257,
 		"common": 140
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 70983,
+		"ips": 69051,
 		"common": 261
 	},
 	{
@@ -350,20 +350,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568594,
-		"common": 794
+		"ips": 9568585,
+		"common": 796
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38346,
+		"ips": 38340,
 		"common": 108
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50950374,
-		"common": 288
+		"common": 287
 	},
 	{
 		"name": "fullbogons",
@@ -386,7 +386,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3419,
+		"ips": 3479,
 		"common": 54
 	},
 	{
@@ -867,7 +867,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
-		"common": 233
+		"common": 232
 	},
 	{
 		"name": "ransomware_feed",
@@ -930,15 +930,21 @@
 		"common": 83
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4831,
+		"ips": 4819,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23774,
+		"ips": 23771,
 		"common": 12
 	},
 	{
@@ -1016,7 +1022,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 165,
+		"ips": 164,
 		"common": 4
 	},
 	{
@@ -1028,7 +1034,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 608,
+		"ips": 607,
 		"common": 7
 	},
 	{
@@ -1047,7 +1053,7 @@
 		"name": "stopforumspam_1d",
 		"category": "abuse",
 		"ips": 4115,
-		"common": 326
+		"common": 325
 	},
 	{
 		"name": "stopforumspam_30d",
