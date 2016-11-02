@@ -102,10 +102,16 @@
 		"common": 5
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 12166,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215084,
-		"common": 8
+		"ips": 215088,
+		"common": 9
 	},
 	{
 		"name": "firehol_anonymous",
@@ -286,6 +292,30 @@
 		"category": "reputation",
 		"ips": 274,
 		"common": 3
+	},
+	{
+		"name": "php_harvesters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_1d",
+		"category": "spam",
+		"ips": 79,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_30d",
+		"category": "spam",
+		"ips": 483,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_7d",
+		"category": "spam",
+		"ips": 194,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
