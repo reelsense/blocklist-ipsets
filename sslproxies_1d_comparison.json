@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10358,
+		"ips": 10357,
 		"common": 1
 	},
 	{
@@ -164,20 +164,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12064,
+		"ips": 12101,
 		"common": 31
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 214877,
+		"ips": 214894,
 		"common": 46
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51410,
-		"common": 207
+		"ips": 51411,
+		"common": 208
 	},
 	{
 		"name": "firehol_level2",
@@ -194,14 +194,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569135,
+		"ips": 9569134,
 		"common": 18
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38440,
-		"common": 207
+		"ips": 38441,
+		"common": 208
 	},
 	{
 		"name": "firehol_webserver",
@@ -318,9 +318,27 @@
 		"common": 1
 	},
 	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 95,
+		"common": 1
+	},
+	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1129,
+		"ips": 1136,
+		"common": 2
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 307,
 		"common": 1
 	},
 	{
@@ -387,13 +405,13 @@
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 5967,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
 		"ips": 2458,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "proxz",
@@ -482,14 +500,14 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23847,
-		"common": 1
+		"ips": 23848,
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9627,
-		"common": 1
+		"ips": 9625,
+		"common": 2
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -543,13 +561,13 @@
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
 		"ips": 4414,
-		"common": 207
+		"common": 208
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
 		"ips": 671,
-		"common": 207
+		"common": 208
 	},
 	{
 		"name": "stopforumspam",
