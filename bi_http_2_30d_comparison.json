@@ -80,37 +80,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42527,
+		"ips": 42145,
 		"common": 70
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9703,
-		"common": 53
+		"ips": 9687,
+		"common": 52
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1966,
-		"common": 10
+		"ips": 1964,
+		"common": 11
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 206,
+		"ips": 207,
 		"common": 48
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1272,
+		"ips": 1260,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28852,
+		"ips": 28790,
 		"common": 7
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9729,
+		"ips": 9762,
 		"common": 163
 	},
 	{
@@ -150,21 +150,27 @@
 		"common": 60
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 26,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 826,
+		"ips": 827,
 		"common": 18
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 13963,
+		"ips": 13948,
 		"common": 62
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3701,
+		"ips": 3697,
 		"common": 45
 	},
 	{
@@ -380,7 +386,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12563,
+		"ips": 12566,
 		"common": 64
 	},
 	{
@@ -392,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51293,
+		"ips": 51292,
 		"common": 68
 	},
 	{
@@ -404,7 +410,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62175,
+		"ips": 61797,
 		"common": 148
 	},
 	{
@@ -416,13 +422,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568444,
+		"ips": 9568461,
 		"common": 308
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38309,
+		"ips": 38308,
 		"common": 51
 	},
 	{
@@ -452,7 +458,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2610,
+		"ips": 2625,
 		"common": 71
 	},
 	{
@@ -639,6 +645,12 @@
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2545,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39519,
 		"common": 1
 	},
 	{
