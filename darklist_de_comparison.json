@@ -380,7 +380,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 4273,
+		"ips": 4269,
 		"common": 69
 	},
 	{
@@ -603,7 +603,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 56724,
-		"common": 675
+		"common": 676
 	},
 	{
 		"name": "firehol_level3",
@@ -627,7 +627,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50950378,
-		"common": 2287
+		"common": 2288
 	},
 	{
 		"name": "gofferje_sip",
@@ -783,13 +783,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 368
+		"common": 369
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 415
+		"common": 416
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -891,7 +891,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2428636,
-		"common": 1510
+		"common": 1514
 	},
 	{
 		"name": "malc0de",
@@ -1191,7 +1191,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
-		"common": 2218
+		"common": 2219
 	},
 	{
 		"name": "ransomware_rw",
@@ -1299,7 +1299,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1696030,
-		"common": 1392
+		"common": 1395
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1450,6 +1450,12 @@
 		"category": "malware",
 		"ips": 89,
 		"common": 2
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 3465,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
