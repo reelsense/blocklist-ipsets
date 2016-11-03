@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Wed Nov  2 12:21:52 UTC 2016.
+The following list was automatically generated on Thu Nov  3 12:21:34 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -52,7 +52,6 @@ name|info|type|entries|update|
 [id_country_bq](http://iplists.firehol.org/?ipset=id_country_bq)|Bonaire, Sint Eustatius, and Saba (BQ) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|11 subnets, 24576 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_br](http://iplists.firehol.org/?ipset=id_country_br)|Brazil (BR) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|1533 subnets, 81985280 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bs](http://iplists.firehol.org/?ipset=id_country_bs)|Bahamas (BS) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|16 subnets, 134400 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_bt](http://iplists.firehol.org/?ipset=id_country_bt)|Bhutan (BT) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|12 subnets, 27904 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bt](http://iplists.firehol.org/?ipset=id_country_bt)|Bhutan (BT) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|12 subnets, 27904 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_bw](http://iplists.firehol.org/?ipset=id_country_bw)|Botswana (BW) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|30 subnets, 132864 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_by](http://iplists.firehol.org/?ipset=id_country_by)|Belarus (BY) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|80 subnets, 1827840 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
