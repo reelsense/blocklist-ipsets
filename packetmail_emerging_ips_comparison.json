@@ -132,9 +132,15 @@
 		"common": 2
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 12663,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215249,
+		"ips": 215251,
 		"common": 2
 	},
 	{
@@ -342,6 +348,30 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 90,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_30d",
+		"category": "spam",
+		"ips": 885,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_7d",
+		"category": "spam",
+		"ips": 267,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
@@ -350,7 +380,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 3446,
+		"ips": 3447,
 		"common": 2
 	},
 	{
