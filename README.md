@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Thu Nov  3 15:25:10 UTC 2016.
+The following list was automatically generated on Thu Nov  3 15:28:42 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -695,7 +695,7 @@ esentire_burmundisoul_ru|Ursnif Variant CnC|ipv4 hash:ip|disabled|updated every 
 [iblocklist_bogons](http://iplists.firehol.org/?ipset=iblocklist_bogons)|Unallocated address space.|ipv4 hash:net|2699 subnets, 666661539 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=gihxqmhyunbxhbmgqrla&fileformat=p2p&archiveformat=gz)
 [iblocklist_bogons](http://iplists.firehol.org/?ipset=iblocklist_bogons)|Unallocated address space.|ipv4 hash:net|2699 subnets, 666661539 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=gihxqmhyunbxhbmgqrla&fileformat=p2p&archiveformat=gz)
 [iblocklist_ciarmy_malicious](http://iplists.firehol.org/?ipset=iblocklist_ciarmy_malicious)|ciarmy.com IP blocklist. Based on information from a network of Sentinel devices deployed around the world, they compile a list of known bad IP addresses. Sentinel devices are uniquely positioned to pick up traffic from bad guys without requiring any type of signature-based or rate-based identification. If an IP is identified in this way by a significant number of Sentinels, the IP is malicious and should be blocked.|ipv4 hash:net|6337 subnets, 6497 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=npkuuhuxcsllnhoamkvm&fileformat=p2p&archiveformat=gz)
-[iblocklist_cidr_report_bogons](http://iplists.firehol.org/?ipset=iblocklist_cidr_report_bogons)|cidr-report.org IP list of Unallocated address space.|ipv4 hash:net|3817 subnets, 603639368 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=lujdnbasfaaixitgmxpp&fileformat=p2p&archiveformat=gz)
+[iblocklist_cidr_report_bogons](http://iplists.firehol.org/?ipset=iblocklist_cidr_report_bogons)|cidr-report.org IP list of Unallocated address space.|ipv4 hash:net|3821 subnets, 603615560 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=lujdnbasfaaixitgmxpp&fileformat=p2p&archiveformat=gz)
 [iblocklist_cruzit_web_attacks](http://iplists.firehol.org/?ipset=iblocklist_cruzit_web_attacks)|CruzIT IP list with individual IP addresses of compromised machines scanning for vulnerabilities and DDOS attacks.|ipv4 hash:net|6201 subnets, 6253 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&fileformat=p2p&archiveformat=gz)
 [iblocklist_dshield](http://iplists.firehol.org/?ipset=iblocklist_dshield)|known Hackers and such people.|ipv4 hash:net|20 subnets, 5120 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=xpbqleszmajjesnzddhv&fileformat=p2p&archiveformat=gz)
 [iblocklist_dshield](http://iplists.firehol.org/?ipset=iblocklist_dshield)|known Hackers and such people.|ipv4 hash:net|20 subnets, 5120 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=xpbqleszmajjesnzddhv&fileformat=p2p&archiveformat=gz)
