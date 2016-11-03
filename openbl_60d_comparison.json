@@ -104,38 +104,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42335,
-		"common": 716
+		"ips": 42330,
+		"common": 717
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9667,
+		"ips": 9657,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 2449,
+		"ips": 2450,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1335,
-		"common": 57
+		"ips": 1331,
+		"common": 56
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 30809,
+		"ips": 30851,
 		"common": 86
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5788,
-		"common": 627
+		"ips": 5758,
+		"common": 628
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9380,
+		"ips": 9378,
 		"common": 97
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51288,
+		"ips": 51291,
 		"common": 20
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57695,
-		"common": 928
+		"ips": 57690,
+		"common": 929
 	},
 	{
 		"name": "firehol_level3",
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568155,
+		"ips": 9568154,
 		"common": 674
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38350,
+		"ips": 38353,
 		"common": 16
 	},
 	{
@@ -948,15 +948,27 @@
 		"common": 17
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_1d",
+		"category": "anonymizers",
+		"ips": 4724,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23703,
+		"ips": 23706,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9454,
+		"ips": 9458,
 		"common": 1
 	},
 	{
@@ -974,8 +986,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 281380,
-		"common": 32
+		"ips": 283455,
+		"common": 33
 	},
 	{
 		"name": "sorbs_noserver",
@@ -986,7 +998,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1675417,
+		"ips": 1678527,
 		"common": 161
 	},
 	{
