@@ -26,8 +26,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 41204,
-		"common": 20
+		"ips": 40879,
+		"common": 19
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 30756,
+		"ips": 30508,
 		"common": 2
 	},
 	{
@@ -50,7 +50,13 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10268,
+		"ips": 10297,
+		"common": 1
+	},
+	{
+		"name": "bm_tor",
+		"category": "anonymizers",
+		"ips": 6968,
 		"common": 1
 	},
 	{
@@ -200,14 +206,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51219,
+		"ips": 51212,
 		"common": 619
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56473,
-		"common": 20
+		"ips": 56070,
+		"common": 19
 	},
 	{
 		"name": "firehol_level3",
@@ -218,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569114,
+		"ips": 9569144,
 		"common": 45
 	},
 	{
@@ -332,8 +338,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39775,
-		"common": 1
+		"ips": 39773,
+		"common": 2
 	},
 	{
 		"name": "php_commenters_30d",
