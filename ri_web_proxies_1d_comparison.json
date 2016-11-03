@@ -26,25 +26,25 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9582,
+		"ips": 9587,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2028,
+		"ips": 2035,
 		"common": 32
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 186,
+		"ips": 187,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 30399,
+		"ips": 30472,
 		"common": 87
 	},
 	{
@@ -60,22 +60,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 25,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 873,
-		"common": 20
+		"ips": 875,
+		"common": 19
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 13919,
-		"common": 86
+		"ips": 13924,
+		"common": 87
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3788,
-		"common": 46
+		"ips": 3787,
+		"common": 47
 	},
 	{
 		"name": "cleantalk",
@@ -182,8 +188,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12513,
-		"common": 95
+		"ips": 12517,
+		"common": 96
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -206,14 +212,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 162322,
+		"ips": 162324,
 		"common": 70
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569390,
-		"common": 86
+		"ips": 9569395,
+		"common": 87
 	},
 	{
 		"name": "firehol_proxies",
@@ -740,13 +746,13 @@
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 812,
+		"ips": 811,
 		"common": 26
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 398,
+		"ips": 396,
 		"common": 21
 	}
 ]
