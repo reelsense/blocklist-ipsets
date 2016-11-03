@@ -326,7 +326,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9578,
+		"ips": 9582,
 		"common": 956
 	},
 	{
@@ -384,21 +384,27 @@
 		"common": 4194304
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 46,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 926,
+		"ips": 909,
 		"common": 58
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 13971,
-		"common": 783
+		"ips": 13974,
+		"common": 785
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3752,
+		"ips": 3754,
 		"common": 228
 	},
 	{
@@ -560,8 +566,8 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 4251,
-		"common": 180
+		"ips": 4249,
+		"common": 178
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -860,8 +866,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12622,
-		"common": 1138
+		"ips": 12592,
+		"common": 1141
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -872,7 +878,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51284,
+		"ips": 51283,
 		"common": 2351
 	},
 	{
@@ -896,8 +902,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568401,
-		"common": 161365
+		"ips": 9568408,
+		"common": 161367
 	},
 	{
 		"name": "firehol_proxies",
@@ -1982,19 +1988,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1138,
+		"ips": 1140,
 		"common": 109
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
 		"ips": 2697,
-		"common": 195
+		"common": 194
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1486,
+		"ips": 1487,
 		"common": 128
 	},
 	{
