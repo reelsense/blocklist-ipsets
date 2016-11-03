@@ -138,12 +138,6 @@
 		"common": 10
 	},
 	{
-		"name": "bambenek_banjori",
-		"category": "malware",
-		"ips": 2,
-		"common": 1
-	},
-	{
 		"name": "bambenek_bebloh",
 		"category": "malware",
 		"ips": 1,
@@ -188,7 +182,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 22,
+		"ips": 21,
 		"common": 4
 	},
 	{
@@ -291,36 +285,36 @@
 		"name": "bitcoin_nodes",
 		"category": "organizations",
 		"ips": 4383,
-		"common": 1032
+		"common": 1033
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5751,
+		"ips": 5746,
 		"common": 1072
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
 		"ips": 22338,
-		"common": 1740
+		"common": 1741
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10058,
-		"common": 1197
+		"ips": 10062,
+		"common": 1198
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 41864,
-		"common": 4809
+		"ips": 41762,
+		"common": 4807
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9628,
+		"ips": 9623,
 		"common": 4227
 	},
 	{
@@ -332,26 +326,26 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 195,
+		"ips": 191,
 		"common": 70
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 2585,
+		"ips": 2579,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1602,
-		"common": 35
+		"ips": 1611,
+		"common": 34
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 31177,
-		"common": 4271
+		"ips": 31088,
+		"common": 4269
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -363,7 +357,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 4853,
-		"common": 136
+		"common": 137
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -374,8 +368,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9724,
-		"common": 2458
+		"ips": 9688,
+		"common": 2454
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -614,13 +608,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 4270,
-		"common": 254
+		"ips": 4271,
+		"common": 263
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1976,
+		"ips": 1973,
 		"common": 139
 	},
 	{
@@ -680,8 +674,8 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2427,
-		"common": 205
+		"ips": 2425,
+		"common": 204
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -914,8 +908,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51260,
-		"common": 4389
+		"ips": 51249,
+		"common": 4388
 	},
 	{
 		"name": "firehol_level1",
@@ -932,19 +926,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 163245,
+		"ips": 162990,
 		"common": 25484
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568600,
-		"common": 52960
+		"ips": 9568564,
+		"common": 52956
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38315,
+		"ips": 38306,
 		"common": 1576
 	},
 	{
@@ -1752,27 +1746,21 @@
 		"common": 506
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4784,
+		"ips": 4783,
 		"common": 88
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23691,
+		"ips": 23682,
 		"common": 525
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9372,
+		"ips": 9375,
 		"common": 230
 	},
 	{
@@ -1952,26 +1940,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1059,
-		"common": 190
+		"ips": 1057,
+		"common": 189
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1139,
-		"common": 199
+		"ips": 1130,
+		"common": 198
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2688,
+		"ips": 2686,
 		"common": 360
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1493,
-		"common": 238
+		"ips": 1491,
+		"common": 237
 	},
 	{
 		"name": "trustedsec_atif",
