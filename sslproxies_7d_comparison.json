@@ -86,19 +86,19 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7285,
+		"ips": 7309,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 71046,
+		"ips": 71053,
 		"common": 100
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21705,
+		"ips": 21713,
 		"common": 69
 	},
 	{
@@ -134,19 +134,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5640,
+		"ips": 5674,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 28865,
+		"ips": 28874,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14107,
+		"ips": 14119,
 		"common": 7
 	},
 	{
@@ -194,20 +194,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12498,
+		"ips": 12536,
 		"common": 33
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215410,
+		"ips": 215420,
 		"common": 140
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51212,
-		"common": 619
+		"ips": 51211,
+		"common": 616
 	},
 	{
 		"name": "firehol_level2",
@@ -230,8 +230,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38236,
-		"common": 619
+		"ips": 38235,
+		"common": 616
 	},
 	{
 		"name": "firehol_webserver",
@@ -522,21 +522,27 @@
 		"common": 50
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4748,
+		"ips": 4740,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23612,
+		"ips": 23611,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9324,
+		"ips": 9314,
 		"common": 6
 	},
 	{
@@ -549,7 +555,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 376034316,
-		"common": 267
+		"common": 265
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -579,7 +585,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 331
+		"common": 328
 	},
 	{
 		"name": "sslproxies",
@@ -597,7 +603,7 @@
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
 		"ips": 4471,
-		"common": 619
+		"common": 616
 	},
 	{
 		"name": "stopforumspam",
