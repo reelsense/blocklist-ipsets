@@ -42,6 +42,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 9830,
+		"common": 1
+	},
+	{
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
@@ -74,13 +80,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 71086,
+		"ips": 71088,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21671,
+		"ips": 21672,
 		"common": 1
 	},
 	{
@@ -92,13 +98,13 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 28822,
+		"ips": 28824,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14066,
+		"ips": 14069,
 		"common": 1
 	},
 	{
@@ -272,13 +278,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215420,
+		"ips": 215422,
 		"common": 18
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 662967144,
+		"ips": 662954344,
 		"common": 227
 	},
 	{
@@ -296,8 +302,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568545,
-		"common": 4
+		"ips": 9568704,
+		"common": 5
 	},
 	{
 		"name": "firehol_webserver",
@@ -308,7 +314,7 @@
 	{
 		"name": "fullbogons",
 		"category": "unroutable",
-		"ips": 636815912,
+		"ips": 636803112,
 		"common": 3
 	},
 	{
@@ -464,7 +470,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39901,
+		"ips": 39903,
 		"common": 1
 	},
 	{
