@@ -80,26 +80,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 25,
+		"ips": 21,
 		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 856,
-		"common": 49
+		"ips": 858,
+		"common": 50
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 13972,
-		"common": 50
+		"ips": 13965,
+		"common": 51
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3739,
-		"common": 50
+		"ips": 3736,
+		"common": 51
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12749,
+		"ips": 12744,
 		"common": 1061
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568563,
-		"common": 57
+		"ips": 9568556,
+		"common": 58
 	},
 	{
 		"name": "firehol_proxies",
@@ -718,5 +718,29 @@
 		"category": "reputation",
 		"ips": 16825,
 		"common": 1
+	},
+	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 59,
+		"common": 2
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 177,
+		"common": 2
+	},
+	{
+		"name": "xroxy_30d",
+		"category": "anonymizers",
+		"ips": 811,
+		"common": 2
+	},
+	{
+		"name": "xroxy_7d",
+		"category": "anonymizers",
+		"ips": 390,
+		"common": 2
 	}
 ]
