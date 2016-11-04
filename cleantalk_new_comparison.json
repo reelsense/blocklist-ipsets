@@ -24,27 +24,33 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 40278,
+		"common": 58
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9686,
+		"ips": 9693,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2007,
+		"ips": 2018,
 		"common": 48
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 29815,
+		"ips": 29908,
 		"common": 8
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11121,
+		"ips": 11128,
 		"common": 10
 	},
 	{
@@ -216,6 +222,12 @@
 		"common": 9
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 56443,
+		"common": 58
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 162526,
@@ -224,7 +236,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569962,
+		"ips": 9569970,
 		"common": 59
 	},
 	{
@@ -332,8 +344,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39105,
-		"common": 10
+		"ips": 39144,
+		"common": 6
 	},
 	{
 		"name": "openbl_all",
@@ -542,8 +554,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 279863,
-		"common": 36
+		"ips": 278394,
+		"common": 37
 	},
 	{
 		"name": "sorbs_noserver",
@@ -554,13 +566,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1690125,
-		"common": 65
+		"ips": 1687190,
+		"common": 66
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6203853,
+		"ips": 6203854,
 		"common": 34
 	},
 	{

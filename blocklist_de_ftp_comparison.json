@@ -54,9 +54,15 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 40278,
+		"common": 2534
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11121,
+		"ips": 11128,
 		"common": 21
 	},
 	{
@@ -242,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 25814,
-		"common": 538
+		"ips": 56443,
+		"common": 2534
 	},
 	{
 		"name": "firehol_level3",
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569962,
+		"ips": 9569970,
 		"common": 30
 	},
 	{
@@ -402,6 +408,12 @@
 		"common": 34
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39144,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -477,13 +489,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 376019712,
-		"common": 434
+		"common": 436
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 279863,
-		"common": 29
+		"ips": 278394,
+		"common": 28
 	},
 	{
 		"name": "sorbs_noserver",
@@ -494,13 +506,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1690125,
+		"ips": 1687190,
 		"common": 143
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6203853,
+		"ips": 6203854,
 		"common": 154
 	},
 	{
