@@ -21,19 +21,25 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1085,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9144,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 2748,
-		"common": 3
+		"common": 4
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 659,
+		"common": 1
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -44,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 40148,
-		"common": 111
+		"ips": 40308,
+		"common": 112
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -80,7 +86,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 362,
+		"ips": 365,
 		"common": 8
 	},
 	{
@@ -122,8 +128,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56347,
-		"common": 111
+		"ips": 56506,
+		"common": 112
 	},
 	{
 		"name": "firehol_level3",
@@ -153,7 +159,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 3555,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "haley_ssh",
@@ -242,7 +248,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3187,
+		"ips": 3213,
 		"common": 2
 	},
 	{
@@ -255,7 +261,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 376019712,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_new_spam",

@@ -158,8 +158,8 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 7,
-		"common": 3
+		"ips": 6,
+		"common": 2
 	},
 	{
 		"name": "bambenek_simda",
@@ -176,8 +176,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 19,
-		"common": 4
+		"ips": 17,
+		"common": 2
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -302,56 +302,56 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 40148,
-		"common": 4870
+		"ips": 40308,
+		"common": 4877
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9720,
-		"common": 4224
+		"ips": 9740,
+		"common": 4225
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1993,
-		"common": 298
+		"ips": 2008,
+		"common": 302
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 188,
+		"ips": 190,
 		"common": 66
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 2552,
+		"ips": 2556,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1762,
+		"ips": 1768,
 		"common": 34
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 29762,
-		"common": 4277
+		"ips": 29872,
+		"common": 4278
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 151,
+		"ips": 152,
 		"common": 45
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 4530,
-		"common": 174
+		"ips": 4539,
+		"common": 175
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -596,19 +596,19 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 362,
+		"ips": 365,
 		"common": 87
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 4237,
-		"common": 270
+		"ips": 4197,
+		"common": 262
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1906,
+		"ips": 1900,
 		"common": 133
 	},
 	{
@@ -908,8 +908,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56347,
-		"common": 6008
+		"ips": 56506,
+		"common": 6015
 	},
 	{
 		"name": "firehol_level3",
@@ -926,7 +926,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38194,
+		"ips": 38195,
 		"common": 1563
 	},
 	{
@@ -1400,8 +1400,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3187,
-		"common": 86
+		"ips": 3213,
+		"common": 82
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1418,8 +1418,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 371,
-		"common": 25
+		"ips": 367,
+		"common": 27
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1622,7 +1622,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 3555,
+		"ips": 3553,
 		"common": 532
 	},
 	{
@@ -1731,24 +1731,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4680,
+		"ips": 4656,
 		"common": 101
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23547,
+		"ips": 23548,
 		"common": 520
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9186,
+		"ips": 9180,
 		"common": 225
 	},
 	{
@@ -1838,7 +1838,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 90,
+		"ips": 92,
 		"common": 3
 	},
 	{
@@ -1874,8 +1874,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4111,
-		"common": 959
+		"ips": 3991,
+		"common": 908
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1928,25 +1928,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1079,
+		"ips": 1078,
 		"common": 192
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1142,
-		"common": 200
+		"ips": 1137,
+		"common": 199
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2691,
-		"common": 361
+		"ips": 2689,
+		"common": 360
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1496,
+		"ips": 1495,
 		"common": 240
 	},
 	{
