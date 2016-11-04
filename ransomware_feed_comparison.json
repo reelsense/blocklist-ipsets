@@ -90,6 +90,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 29733,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11124,
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12339,
+		"ips": 12219,
 		"common": 3
 	},
 	{
@@ -356,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51132,
+		"ips": 51130,
 		"common": 1
 	},
 	{
@@ -387,7 +393,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50950589,
-		"common": 2706
+		"common": 2705
 	},
 	{
 		"name": "fullbogons",
@@ -435,19 +441,19 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 21372,
-		"common": 2463
+		"common": 2461
 	},
 	{
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 303,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 24742,
-		"common": 273
+		"common": 274
 	},
 	{
 		"name": "hphosts_grm",
@@ -483,7 +489,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 17993,
-		"common": 374
+		"common": 375
 	},
 	{
 		"name": "hphosts_wrz",
@@ -597,7 +603,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 67
+		"common": 66
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -633,7 +639,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "jigsaw_malware",
@@ -717,7 +723,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
-		"common": 533
+		"common": 531
 	},
 	{
 		"name": "ransomware_locky_c2",
