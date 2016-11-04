@@ -8,20 +8,32 @@
 	{
 		"name": "atlas_fastflux_30d",
 		"category": "attacks",
-		"ips": 50,
-		"common": 16
+		"ips": 51,
+		"common": 22
 	},
 	{
 		"name": "atlas_fastflux_7d",
 		"category": "attacks",
-		"ips": 31,
-		"common": 16
+		"ips": 33,
+		"common": 22
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4519,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50950589,
-		"common": 11
+		"common": 17
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 21372,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -33,24 +45,24 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691276,
-		"common": 6
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 6
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 7
+		"common": 10
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50721928,
-		"common": 11
+		"common": 17
 	}
 ]
